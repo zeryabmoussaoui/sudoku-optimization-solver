@@ -40,7 +40,7 @@ Or
 9 2 8 0 0 0 0 0 0<br/>
 0 0 0 0 0 2 9 0 0
 
-2/ Choose one of the provided methods (or implements your !) :
+2/ Choose one of the provided methods (or implement your !) :
 
 
 | Method   |  Reference |  File to execute | 
