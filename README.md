@@ -5,6 +5,11 @@
 ## Introduction
 
 The aim of this project is to provide benchmarking environnement to solve Sudoku grid using Optimization Methods.
+This is done my minimizing Grid Energy, which corresponds to number of free positions.
+
+
+![](./utils/energy.png)
+
 
 
 ## Installation
