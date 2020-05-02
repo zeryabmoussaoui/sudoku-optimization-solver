@@ -1,4 +1,4 @@
-# Sudoku Optimization solvers 
+# Sudoku Optimization Solvers 
 
 **Authors :** [Zeryab Moussaoui](https://fr.linkedin.com/in/zeryab-moussaoui-9a728029)
 
